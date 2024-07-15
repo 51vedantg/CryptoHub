@@ -1,0 +1,12 @@
+
+.footer {
+    background-color: #333; /* Adjust as per your design */
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 13px;
+    border-top: 1px solid #989898;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}

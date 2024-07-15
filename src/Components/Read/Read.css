@@ -1,0 +1,14 @@
+.read {
+    font-size: 14px;
+    color:white;
+    border: 3px solid #c9d1d9;
+    padding: 5px 10px;
+    margin-bottom: 50px;
+    transition: background-color 0.3s, color 0.3s;
+    margin-left:1450px;
+    border-radius: 50px;
+    position: sticky;
+    z-index: 3;
+    
+  
+  }
